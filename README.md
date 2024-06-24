@@ -4,7 +4,7 @@ Hi! I'm Javi!
 Saw a print("Hello World") once and now it's my life
 
 # 🎶
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thecodymaverick66&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=thecodymaverick66&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 # 💻 Tech Stack:
